@@ -1,0 +1,24 @@
+2017-06-12 23:45:20 INFO  RegistrationPage:81 - Swithing to registration page-----:
+2017-06-12 23:45:21 INFO  RegistrationPage:87 - finisht creating username and password
+2017-06-12 23:45:22 INFO  RegistrationPage:97 - Finish select statement
+2017-06-12 23:45:23 INFO  RegistrationPage:107 - Select state[[FirefoxDriver: firefox on ANY (892f46ea-cbde-41ed-af59-769d273f6879)] -> id: id_state]
+2017-06-12 23:45:23 INFO  RegistrationPage:113 - submitted and object si-----:[[FirefoxDriver: firefox on ANY (892f46ea-cbde-41ed-af59-769d273f6879)] -> id: submitAccount]
+2017-06-12 23:45:26 INFO  RegistrationPage:118 - registration message is AUTHENTICATION
+2017-06-12 23:47:22 INFO  RegistrationPage:81 - Swithing to registration page-----:
+2017-06-12 23:47:23 INFO  RegistrationPage:87 - finisht creating username and password
+2017-06-12 23:47:25 INFO  RegistrationPage:97 - Finish select statement
+2017-06-12 23:47:25 INFO  RegistrationPage:107 - Select state[[FirefoxDriver: firefox on ANY (29e3622a-e4a8-4120-b63a-9bf27a6a15e6)] -> id: id_state]
+2017-06-12 23:47:25 INFO  RegistrationPage:113 - submitted and object si-----:[[FirefoxDriver: firefox on ANY (29e3622a-e4a8-4120-b63a-9bf27a6a15e6)] -> id: submitAccount]
+2017-06-12 23:47:28 INFO  RegistrationPage:118 - registration message is AUTHENTICATION
+2017-06-13 16:52:23 INFO  RegistrationPage:81 - Swithing to registration page-----:
+2017-06-13 16:52:24 INFO  RegistrationPage:87 - finisht creating username and password
+2017-06-13 16:52:25 INFO  RegistrationPage:97 - Finish select statement
+2017-06-13 16:52:26 INFO  RegistrationPage:107 - Select state[[ChromeDriver: chrome on XP (5494b1d5520954ec33678028503d6d10)] -> id: id_state]
+2017-06-13 16:53:27 INFO  RegistrationPage:113 - submitted and object si-----:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+2017-06-13 16:53:30 INFO  RegistrationPage:118 - registration message is AUTHENTICATION
+2017-06-13 17:40:22 INFO  RegistrationPage:81 - Swithing to registration page-----:
+2017-06-13 17:40:25 INFO  RegistrationPage:87 - finisht creating username and password
+2017-06-13 17:40:26 INFO  RegistrationPage:97 - Finish select statement
+2017-06-13 17:40:26 INFO  RegistrationPage:107 - Select state[[FirefoxDriver: firefox on ANY (c5e7b77d-c9e8-4917-89ab-1f68cc7864bc)] -> id: id_state]
+2017-06-13 17:40:26 INFO  RegistrationPage:113 - submitted and object si-----:[[FirefoxDriver: firefox on ANY (c5e7b77d-c9e8-4917-89ab-1f68cc7864bc)] -> id: submitAccount]
+2017-06-13 17:40:29 INFO  RegistrationPage:118 - registration message is AUTHENTICATION

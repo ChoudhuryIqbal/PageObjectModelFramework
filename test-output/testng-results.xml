@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="42387" started-at="2017-06-13T21:39:50Z" finished-at="2017-06-13T21:40:32Z">
+    <groups>
+    </groups>
+    <test name="TC002_VerifyRegistration" duration-ms="42387" started-at="2017-06-13T21:39:50Z" finished-at="2017-06-13T21:40:32Z">
+      <class name="homePage.TC002_VerifyRegistration">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:homePage.TC002_VerifyRegistration@42dafa95]" name="setUp" is-config="true" duration-ms="27394" started-at="2017-06-13T17:39:50Z" finished-at="2017-06-13T17:40:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:homePage.TC002_VerifyRegistration@42dafa95]" name="testLogin" duration-ms="11770" started-at="2017-06-13T17:40:18Z" finished-at="2017-06-13T17:40:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:homePage.TC002_VerifyRegistration@42dafa95]" name="endTest" is-config="true" duration-ms="3154" started-at="2017-06-13T17:40:29Z" finished-at="2017-06-13T17:40:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- homePage.TC002_VerifyRegistration -->
+    </test> <!-- TC002_VerifyRegistration -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
